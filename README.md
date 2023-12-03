@@ -1,4 +1,12 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 👋
+
+I'm a results-driven front-end developer with an eye for detail.
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-petryniak/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:denys.petryniak@gmail.com)
+
+Happy coding! 🚀
 
 <!--
 **denys-petryniak/denys-petryniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
