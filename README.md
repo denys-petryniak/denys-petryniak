@@ -4,7 +4,7 @@
 
 ### Contacts
 
-[LinkedIn](https://www.linkedin.com/in/denys-petryniak/) &nbsp; | &nbsp; [Email](mailto:denys.petryniak@gmail.com) &nbsp; | &nbsp; [Website](https://denys-petryniak.netlify.app/)
+<a href="https://www.linkedin.com/in/denys-petryniak/" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp; | &nbsp; <a href="mailto:denys.petryniak@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> &nbsp; | &nbsp; <a href="https://denys-petryniak.netlify.app/" target="_blank" rel="noopener noreferrer">Website</a>
 
 #### Happy coding! 🚀
 
