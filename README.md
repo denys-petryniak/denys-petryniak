@@ -1,12 +1,12 @@
-## Welcome to my profile! 👋
+## Welcome to My Profile! 👋
 
-*I'm a results-driven front-end developer with an eye for detail.*
+I'm **Denys**, a results-driven front-end developer with an eye for detail. I love solving problems through code and constantly improving my skill set.
 
-### Contacts
+### Get in Touch
 
-<a href="https://www.linkedin.com/in/denys-petryniak/" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp; | &nbsp; <a href="mailto:denys.petryniak@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> &nbsp; | &nbsp; <a href="https://denys-petryniak.netlify.app/" target="_blank" rel="noopener noreferrer">Website</a>
+[Email Me](mailto:denys.petryniak@gmail.com) &nbsp; | &nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/denys-petryniak/) &nbsp; | &nbsp; [Visit My Website](https://denys-petryniak.netlify.app/)
 
-#### Happy coding! 🚀
+#### Happy coding and thanks for visiting! 🚀
 
 <!--
 **denys-petryniak/denys-petryniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
